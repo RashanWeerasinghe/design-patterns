@@ -6,3 +6,27 @@ public class Singleton {
         return sin==null?sin=new Singleton():sin;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

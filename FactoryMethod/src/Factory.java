@@ -13,7 +13,7 @@ public class Factory {
         if(factory==null) return new Factory();
         return factory;
     }
-    public  Vehicle getVehicle(VehicleType vehicleType){
+    public Vehicle getVehicle(VehicleType vehicleType){
         switch (vehicleType){
             case BUS:return new Bus();
             case CAR:return new Car();
