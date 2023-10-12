@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="954b33a1-e9c8-40ee-8c1d-193225b0c8ee" name="Changes" comment="" />
+    <list default="true" id="954b33a1-e9c8-40ee-8c1d-193225b0c8ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prototype/src/ComputerShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prototype/src/Initializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +28,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Seekers Cloud Special Bootcamp/Design patterns/design-patterns",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,6 +48,9 @@
       <option name="presentableId" value="Default" />
       <updated>1695355224672</updated>
       <workItem from="1695355225939" duration="79000" />
+      <workItem from="1696774673596" duration="1302000" />
+      <workItem from="1696857026321" duration="179000" />
+      <workItem from="1697109404754" duration="61000" />
     </task>
     <servers />
   </component>
