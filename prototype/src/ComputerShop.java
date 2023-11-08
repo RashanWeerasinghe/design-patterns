@@ -21,6 +21,18 @@ private ArrayList<Computer>computers=
         this.computers = computers;
     }
 
+    public void inliliazeComputers(){
+         for(int i=0;i<100;i++){
+             Computer c=new Computer();
+             c.setBrand("Computer "+(i+1));
+             c.setModel(i);
+             getComputers().add(c);
+         }
+    }
+
+    public Object Clone() implments {
+
+    }
     @Override
     public String toString() {
         return "ComputerShop{" +
