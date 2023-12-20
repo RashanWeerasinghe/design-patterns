@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="954b33a1-e9c8-40ee-8c1d-193225b0c8ee" name="Changes" comment="Abstract Factory">
-      <change afterPath="$PROJECT_DIR$/SolidPrinciples/SingleRes.java" afterDir="false" />
+    <list default="true" id="954b33a1-e9c8-40ee-8c1d-193225b0c8ee" name="Changes" comment="Single Responsibility Principle">
+      <change afterPath="$PROJECT_DIR$/SolidPrinciples/OCP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <workItem from="1697188420434" duration="1273000" />
       <workItem from="1697193878069" duration="5458000" />
       <workItem from="1699457901651" duration="600000" />
-      <workItem from="1703043998922" duration="401000" />
+      <workItem from="1703043998922" duration="1067000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />
@@ -86,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699458213019</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Single Responsibility Principle">
+      <option name="closed" value="true" />
+      <created>1703044645061</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703044645062</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +105,7 @@
     <MESSAGE value="add" />
     <MESSAGE value="prototype" />
     <MESSAGE value="Abstract Factory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Factory" />
+    <MESSAGE value="Single Responsibility Principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Single Responsibility Principle" />
   </component>
 </project>
